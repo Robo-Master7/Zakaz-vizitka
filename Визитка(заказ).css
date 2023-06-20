@@ -1,115 +1,37 @@
-.zakaz{
-    text-align: center;
-    justify-content: center;
-}
-
-.visit{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    margin-right: 40px;
-}
-form {
-    text-align: center;
-    justify-content: center;
-    max-width: 500px;
-    padding: 25px;
-    background-color: white;
-
-  }
-  
-  .control {
-    text-align: center;
-    justify-content: center;
-    margin-bottom: 10px;
-  }
-  
-  input,
-  textarea {
-    text-align: center;
-    justify-content: center;
+.o_kyrs{
+    background-color: rgb(245, 189, 34);
     width: 100%;
-    border: 1px solid #ddd;
-    background-color: white;
-    padding: 8px 20px;
-  }
-  
-  button {
-    justify-content: center;
-    text-align: center;
-    padding: 5px 20px;
-    border: none;
-    background-color: goldenrod;
-    color: white;
-    margin-left: 30px;
-  }
-  .conf{
-    font-size: 8px;
-    text-align: center;
-    justify-content: center;
-  }
-  .footer{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-  }
-  .end{
-    text-align: center;
-    justify-content: center;
-  }
-  .theend{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    color: white;
-    background-color: black;
-    height: 200px;
-  }
-.stop{
-  margin-top: 90px;
+    height: 500px;
 }
-.opt{
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  background-color: goldenrod;
-  height: 400px;
-}
-.opit{
-  color: white;
-  justify-content: center;
-  text-align: center;
-}
-ul{
-  color: white;
-}
-.one{
 
-width: 100px;
-margin-right: 1000px;
+.foto1{
+    position: relative;
+    left:310px;
+    top:40px;
 }
-.two{
-  width: 100px;
-  margin-right: 1000px;
-  margin-top: 120px;
+
+.foto2{
+    position: relative;
+    left:310px;
+    top:-165px;
 }
-.three{
-  width: 100px;
-  margin-left: 450px;
-  margin-top:-250px ;
+
+.foto3{
+    position: relative;
+    bottom:167px;
+    left:520px;
 }
-.four{
-  width: 100px;
-  margin-left: 450px;
-  margin-top:100px 
+
+.foto4{
+    position: relative;
+    bottom:369px;
+    left:520px;
 }
-.five{
-  width: 100px;
-  margin-left: 900px;
-  margin-top:-250px 
-}
-.six{
-  width: 100px;
-  margin-left: 900px;
-  margin-top:70px 
+
+.zag1{
+    position: relative;
+    left:800px;
+    bottom:719px;
+    color: white;
+    font-size: 30px;
 }
