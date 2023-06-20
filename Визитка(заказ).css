@@ -1,0 +1,37 @@
+.o_kyrs{
+    background-color: rgb(245, 189, 34);
+    width: 100%;
+    height: 500px;
+}
+
+.foto1{
+    position: relative;
+    left:310px;
+    top:40px;
+}
+
+.foto2{
+    position: relative;
+    left:310px;
+    top:-165px;
+}
+
+.foto3{
+    position: relative;
+    bottom:167px;
+    left:520px;
+}
+
+.foto4{
+    position: relative;
+    bottom:369px;
+    left:520px;
+}
+
+.zag1{
+    position: relative;
+    left:800px;
+    bottom:719px;
+    color: white;
+    font-size: 30px;
+}
