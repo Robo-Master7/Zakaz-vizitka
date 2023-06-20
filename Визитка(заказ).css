@@ -6,32 +6,41 @@
 
 .foto1{
     position: relative;
-    left:310px;
+    left:240px;
     top:40px;
 }
 
 .foto2{
     position: relative;
-    left:310px;
+    left:240px;
     top:-165px;
 }
 
 .foto3{
     position: relative;
     bottom:167px;
-    left:520px;
+    left:450px;
 }
 
 .foto4{
     position: relative;
     bottom:369px;
-    left:520px;
+    left:450px;
 }
 
 .zag1{
     position: relative;
-    left:800px;
-    bottom:719px;
+    left:700px;
+    bottom:729px;
     color: white;
-    font-size: 30px;
+    font-size: 49px;
+}
+
+.text1{
+    position: relative;
+    width:451px;
+    left:700px;
+    bottom:719px;
+    color:white;
+    font-size: 22.5px;
 }
