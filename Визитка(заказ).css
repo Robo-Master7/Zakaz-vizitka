@@ -1,0 +1,50 @@
+.zakaz{
+    text-align: center;
+    justify-content: center;
+}
+
+.visit{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-right: 40px;
+}
+form {
+    text-align: center;
+    justify-content: center;
+    max-width: 500px;
+    padding: 25px;
+    background-color: white;
+
+  }
+  
+  .control {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  textarea {
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid #ddd;
+    background-color: white;
+    padding: 8px 20px;
+  }
+  
+  button {
+    justify-content: center;
+    text-align: center;
+    padding: 5px 20px;
+    border: none;
+    background-color: goldenrod;
+    color: white;
+    margin-left: 30px;
+  }
+  .conf{
+    font-size: 8px;
+    text-align: center;
+    justify-content: center;
+  }
