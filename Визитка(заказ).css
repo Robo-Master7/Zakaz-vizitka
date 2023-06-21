@@ -68,3 +68,45 @@
     left:370px;
     width: 570px;
 }
+
+.zag3{
+    position: relative;
+    left:550px;
+    font-size: 39px;
+}
+
+.foto6{
+    position: relative;
+    top:37px;
+    left:265px;
+}
+
+.text3{
+    position: relative;
+    left:595px;
+    font-size:25px;
+    bottom:185px;
+}
+
+.text4{
+    position: relative;
+    left:595px;
+    bottom:185px;
+    font-size: 15px;
+}
+
+.lin{
+    width:40px;
+    height: 3px;
+    background-color:rgb(245, 189, 34); ;
+    position: relative;
+    left:595px;
+    bottom:169px;
+}
+
+.text5{
+    position: relative;
+    left:595px;
+    bottom:160px;
+    width:450px;
+}
