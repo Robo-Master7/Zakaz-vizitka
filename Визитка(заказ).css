@@ -153,3 +153,124 @@
     bottom:470px;
     left:50px;
 }
+
+.opt{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: goldenrod;
+    height: 400px;
+  }
+  .opit{
+    color: white;
+    justify-content: center;
+    text-align: center;
+  }
+  ul{
+    color: white;
+  }
+  .one{
+  
+  width: 100px;
+  margin-right: 1000px;
+  }
+  .two{
+    width: 100px;
+    margin-right: 1000px;
+    margin-top: 120px;
+  }
+  .three{
+    width: 100px;
+    margin-left: 450px;
+    margin-top:-250px ;
+  }
+  .four{
+    width: 100px;
+    margin-left: 450px;
+    margin-top:100px 
+  }
+  .five{
+    width: 100px;
+    margin-left: 900px;
+    margin-top:-250px 
+  }
+  .six{
+    width: 100px;
+    margin-left: 900px;
+    margin-top:70px 
+  }
+
+  .zakaz{
+    text-align: center;
+    justify-content: center;
+}
+
+.visit{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-right: 40px;
+}
+form {
+    text-align: center;
+    justify-content: center;
+    max-width: 500px;
+    padding: 25px;
+
+
+  }
+  
+  .control {
+    position: relative;
+    right:22px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  textarea {
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid #ddd;
+    background-color: white;
+    padding: 8px 20px;
+  }
+  
+  button {
+    justify-content: center;
+    text-align: center;
+    padding: 5px 20px;
+    border: none;
+    background-color: goldenrod;
+    color: white;
+    margin-left: 30px;
+  }
+  .conf{
+    font-size: 8px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .end{
+    text-align: center;
+    justify-content: center;
+  }
+  .theend{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+
+  }
+
+.fo{
+    background-color: #c3c1c1;
+}
